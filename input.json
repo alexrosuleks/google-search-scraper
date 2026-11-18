@@ -1,0 +1,6 @@
+{
+  "queries": "web scraping",
+  "maxPagesPerQuery": 1,
+  "countryCode": "us",
+  "resultsPerPage": 10
+}

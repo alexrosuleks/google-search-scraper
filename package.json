@@ -1,0 +1,20 @@
+{
+  "name": "google-search-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Google Search Scraper: Scrape Google Search results by query and country in fast search mode: organic results, People Also Ask, and related searches with positions, plus ads in browser mode. Track ran",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely",
+    "google"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}
